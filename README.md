@@ -25,9 +25,9 @@ License :
 This project is open-source and available under the MIT License. You are free to use, modify, and distribute it as needed.
 Please refer to the LICENSE file for more details. 
 
-(  https://github.com/vasanth312203/Scientific-Calculator-/blob/a83fc41be17be2d8261547613b5746db26c1102b/LICENSE )
+( https://github.com/vasanth312203/CHATBOT/blob/a9cff2ad1b3eabd8c398c61b9f4a87b64ccd845a/LICENSE )
 
-<img src="image.jpg" alt="W3Schools.com">
+<img src=".jpg" alt="Not Found ">
 
 Description :
 
