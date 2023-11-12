@@ -27,7 +27,9 @@ Please refer to the LICENSE file for more details.
 
 ( https://github.com/vasanth312203/CHATBOT/blob/a9cff2ad1b3eabd8c398c61b9f4a87b64ccd845a/LICENSE )
 
-<img src=".jpg" alt="Not Found ">
+
+
+
 
 Description :
 
@@ -59,6 +61,11 @@ Create functions for scientific operations like square root, exponentiation, tri
 Result Display:
 
 Display the calculated result on the screen.
+
+
+<img src="output1.jpg" alt="Not Found ">
+
+
 
 How to Use
 
