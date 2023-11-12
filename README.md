@@ -1,12 +1,10 @@
 
 
-#CUP CAKE CHATBOT
+# CUP CAKE CHATBOT
 
 BY   Million Dollar Coder 
 **********************************
-
-
-Project Name : Scientific Calculator
+Project Name : 🧁 CupCake CHATBOT 
 
 Author : 
 
@@ -18,7 +16,9 @@ Language Used: HTML , CSS and JS
 
 Software Used : VScode and google chorme
 
-Date : 22 - 10 - 23
+Date : 12 - 11 - 23
+
+API : **OpenAI**
 
 License : 
 
