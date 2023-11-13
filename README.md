@@ -59,6 +59,7 @@ Take your project to the next level by integrating it with the OpenAI GPT API fo
 # POST Link :
 
 ```
+
 https://api.openai.com/v1/completions
 
 ```
@@ -67,6 +68,7 @@ https://api.openai.com/v1/completions
 **Creates a completion for the provided prompt and parameters.**
 
 ```
+
 https://platform.openai.com/docs/api-reference/completions/create
 
 ```
